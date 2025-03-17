@@ -16,7 +16,7 @@ A Python script to compare the performance of different API endpoints by measuri
 1. Clone the repository
 2. Install the required dependencies:
    ```bash
-   pip install requests
+   pip install -r requirements.txt
    ```
 
 ## Usage
