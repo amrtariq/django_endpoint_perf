@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files
+*.csv
+*.xlsx
+*.db
+*.sqlite3
+
+# Logs
+*.log
+log/
+logs/
+
+# Local development settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
